@@ -1,0 +1,1263 @@
+max_utility:22
+maxLength:2147483647
+LUSM_naive
+
+Printing:mapTidToItems:
+Line0:[5, 15, 23, 8, 9, 28, 13, 38, 66, 14, 29, 32, 17, 26, 33, 18, 77, 22, 4, 27]
+
+Printing:mapTidToUtilities:
+Line0:[45, 3, 50, 4, 8, 45, 6, 4, 40, 15, 16, 30, 63, 2, 4, 40, 12, 7, 3, 15]
+
+0/1
+Found low-utility sequence: [15, 8, 9, 13]
+
+Found low-utility sequence: [15, 8, 9, 38, 26]
+
+Found low-utility sequence: [15, 8, 9, 38, 4]
+
+Found low-utility sequence: [15, 8, 9, 38]
+
+Found low-utility sequence: [15, 8, 9, 26, 33]
+
+Found low-utility sequence: [15, 8, 9, 26, 4]
+
+Found low-utility sequence: [15, 8, 9, 26]
+
+Found low-utility sequence: [15, 8, 9, 33, 4]
+
+Found low-utility sequence: [15, 8, 9, 33]
+
+Found low-utility sequence: [15, 8, 9, 22]
+
+Found low-utility sequence: [15, 8, 9, 4]
+
+Found low-utility sequence: [15, 8, 9]
+
+Found low-utility sequence: [15, 8, 13, 38, 26, 4]
+
+Found low-utility sequence: [15, 8, 13, 38, 26]
+
+Found low-utility sequence: [15, 8, 13, 38, 33]
+
+Found low-utility sequence: [15, 8, 13, 38, 4]
+
+Found low-utility sequence: [15, 8, 13, 38]
+
+Found low-utility sequence: [15, 8, 13, 26, 33, 4]
+
+Found low-utility sequence: [15, 8, 13, 26, 33]
+
+Found low-utility sequence: [15, 8, 13, 26, 22]
+
+Found low-utility sequence: [15, 8, 13, 26, 4]
+
+Found low-utility sequence: [15, 8, 13, 26]
+
+Found low-utility sequence: [15, 8, 13, 33, 4]
+
+Found low-utility sequence: [15, 8, 13, 33]
+
+Found low-utility sequence: [15, 8, 13, 22]
+
+Found low-utility sequence: [15, 8, 13, 4]
+
+Found low-utility sequence: [15, 8, 13]
+
+Found low-utility sequence: [15, 8, 38, 26, 33, 4]
+
+Found low-utility sequence: [15, 8, 38, 26, 33]
+
+Found low-utility sequence: [15, 8, 38, 26, 22]
+
+Found low-utility sequence: [15, 8, 38, 26, 4]
+
+Found low-utility sequence: [15, 8, 38, 26]
+
+Found low-utility sequence: [15, 8, 38, 33, 22]
+
+Found low-utility sequence: [15, 8, 38, 33, 4]
+
+Found low-utility sequence: [15, 8, 38, 33]
+
+Found low-utility sequence: [15, 8, 38, 22, 4]
+
+Found low-utility sequence: [15, 8, 38, 22]
+
+Found low-utility sequence: [15, 8, 38, 4]
+
+Found low-utility sequence: [15, 8, 38]
+
+Found low-utility sequence: [15, 8, 14]
+
+Found low-utility sequence: [15, 8, 26, 33, 22]
+
+Found low-utility sequence: [15, 8, 26, 33, 4]
+
+Found low-utility sequence: [15, 8, 26, 33]
+
+Found low-utility sequence: [15, 8, 26, 77]
+
+Found low-utility sequence: [15, 8, 26, 22, 4]
+
+Found low-utility sequence: [15, 8, 26, 22]
+
+Found low-utility sequence: [15, 8, 26, 4]
+
+Found low-utility sequence: [15, 8, 26]
+
+Found low-utility sequence: [15, 8, 33, 22, 4]
+
+Found low-utility sequence: [15, 8, 33, 22]
+
+Found low-utility sequence: [15, 8, 33, 4]
+
+Found low-utility sequence: [15, 8, 33]
+
+Found low-utility sequence: [15, 8, 77, 4]
+
+Found low-utility sequence: [15, 8, 77]
+
+Found low-utility sequence: [15, 8, 22, 4]
+
+Found low-utility sequence: [15, 8, 22]
+
+Found low-utility sequence: [15, 8, 4]
+
+Found low-utility sequence: [15, 8, 27]
+
+Found low-utility sequence: [15, 8]
+
+Found low-utility sequence: [15, 9, 13, 38]
+
+Found low-utility sequence: [15, 9, 13, 26, 4]
+
+Found low-utility sequence: [15, 9, 13, 26]
+
+Found low-utility sequence: [15, 9, 13, 33]
+
+Found low-utility sequence: [15, 9, 13, 4]
+
+Found low-utility sequence: [15, 9, 13]
+
+Found low-utility sequence: [15, 9, 38, 26, 33]
+
+Found low-utility sequence: [15, 9, 38, 26, 4]
+
+Found low-utility sequence: [15, 9, 38, 26]
+
+Found low-utility sequence: [15, 9, 38, 33, 4]
+
+Found low-utility sequence: [15, 9, 38, 33]
+
+Found low-utility sequence: [15, 9, 38, 22]
+
+Found low-utility sequence: [15, 9, 38, 4]
+
+Found low-utility sequence: [15, 9, 38]
+
+Found low-utility sequence: [15, 9, 26, 33, 4]
+
+Found low-utility sequence: [15, 9, 26, 33]
+
+Found low-utility sequence: [15, 9, 26, 22]
+
+Found low-utility sequence: [15, 9, 26, 4]
+
+Found low-utility sequence: [15, 9, 26]
+
+Found low-utility sequence: [15, 9, 33, 22]
+
+Found low-utility sequence: [15, 9, 33, 4]
+
+Found low-utility sequence: [15, 9, 33]
+
+Found low-utility sequence: [15, 9, 22, 4]
+
+Found low-utility sequence: [15, 9, 22]
+
+Found low-utility sequence: [15, 9, 4]
+
+Found low-utility sequence: [15, 9]
+
+Found low-utility sequence: [15, 13, 38, 26, 33, 4]
+
+Found low-utility sequence: [15, 13, 38, 26, 33]
+
+Found low-utility sequence: [15, 13, 38, 26, 22]
+
+Found low-utility sequence: [15, 13, 38, 26, 4]
+
+Found low-utility sequence: [15, 13, 38, 26]
+
+Found low-utility sequence: [15, 13, 38, 33, 4]
+
+Found low-utility sequence: [15, 13, 38, 33]
+
+Found low-utility sequence: [15, 13, 38, 22]
+
+Found low-utility sequence: [15, 13, 38, 4]
+
+Found low-utility sequence: [15, 13, 38]
+
+Found low-utility sequence: [15, 13, 26, 33, 22]
+
+Found low-utility sequence: [15, 13, 26, 33, 4]
+
+Found low-utility sequence: [15, 13, 26, 33]
+
+Found low-utility sequence: [15, 13, 26, 22, 4]
+
+Found low-utility sequence: [15, 13, 26, 22]
+
+Found low-utility sequence: [15, 13, 26, 4]
+
+Found low-utility sequence: [15, 13, 26]
+
+Found low-utility sequence: [15, 13, 33, 22]
+
+Found low-utility sequence: [15, 13, 33, 4]
+
+Found low-utility sequence: [15, 13, 33]
+
+Found low-utility sequence: [15, 13, 77]
+
+Found low-utility sequence: [15, 13, 22, 4]
+
+Found low-utility sequence: [15, 13, 22]
+
+Found low-utility sequence: [15, 13, 4]
+
+Found low-utility sequence: [15, 13]
+
+Found low-utility sequence: [15, 38, 14]
+
+Found low-utility sequence: [15, 38, 26, 33, 22]
+
+Found low-utility sequence: [15, 38, 26, 33, 4]
+
+Found low-utility sequence: [15, 38, 26, 33]
+
+Found low-utility sequence: [15, 38, 26, 77]
+
+Found low-utility sequence: [15, 38, 26, 22, 4]
+
+Found low-utility sequence: [15, 38, 26, 22]
+
+Found low-utility sequence: [15, 38, 26, 4]
+
+Found low-utility sequence: [15, 38, 26]
+
+Found low-utility sequence: [15, 38, 33, 22, 4]
+
+Found low-utility sequence: [15, 38, 33, 22]
+
+Found low-utility sequence: [15, 38, 33, 4]
+
+Found low-utility sequence: [15, 38, 33]
+
+Found low-utility sequence: [15, 38, 77, 4]
+
+Found low-utility sequence: [15, 38, 77]
+
+Found low-utility sequence: [15, 38, 22, 4]
+
+Found low-utility sequence: [15, 38, 22]
+
+Found low-utility sequence: [15, 38, 4]
+
+Found low-utility sequence: [15, 38, 27]
+
+Found low-utility sequence: [15, 38]
+
+Found low-utility sequence: [15, 14, 26]
+
+Found low-utility sequence: [15, 14, 33]
+
+Found low-utility sequence: [15, 14, 4]
+
+Found low-utility sequence: [15, 14]
+
+Found low-utility sequence: [15, 29, 26]
+
+Found low-utility sequence: [15, 29, 4]
+
+Found low-utility sequence: [15, 29]
+
+Found low-utility sequence: [15, 26, 33, 77]
+
+Found low-utility sequence: [15, 26, 33, 22, 4]
+
+Found low-utility sequence: [15, 26, 33, 22]
+
+Found low-utility sequence: [15, 26, 33, 4]
+
+Found low-utility sequence: [15, 26, 33]
+
+Found low-utility sequence: [15, 26, 77, 4]
+
+Found low-utility sequence: [15, 26, 77]
+
+Found low-utility sequence: [15, 26, 22, 4]
+
+Found low-utility sequence: [15, 26, 22]
+
+Found low-utility sequence: [15, 26, 4]
+
+Found low-utility sequence: [15, 26, 27]
+
+Found low-utility sequence: [15, 26]
+
+Found low-utility sequence: [15, 33, 77, 4]
+
+Found low-utility sequence: [15, 33, 77]
+
+Found low-utility sequence: [15, 33, 22, 4]
+
+Found low-utility sequence: [15, 33, 22]
+
+Found low-utility sequence: [15, 33, 4]
+
+Found low-utility sequence: [15, 33, 27]
+
+Found low-utility sequence: [15, 33]
+
+Found low-utility sequence: [15, 77, 22]
+
+Found low-utility sequence: [15, 77, 4]
+
+Found low-utility sequence: [15, 77]
+
+Found low-utility sequence: [15, 22, 4]
+
+Found low-utility sequence: [15, 22]
+
+Found low-utility sequence: [15, 4, 27]
+
+Found low-utility sequence: [15, 4]
+
+Found low-utility sequence: [15, 27]
+
+Found low-utility sequence: [15]
+
+Found low-utility sequence: [8, 9, 13, 38]
+
+Found low-utility sequence: [8, 9, 13, 26]
+
+Found low-utility sequence: [8, 9, 13, 33]
+
+Found low-utility sequence: [8, 9, 13, 4]
+
+Found low-utility sequence: [8, 9, 13]
+
+Found low-utility sequence: [8, 9, 38, 26, 33]
+
+Found low-utility sequence: [8, 9, 38, 26, 4]
+
+Found low-utility sequence: [8, 9, 38, 26]
+
+Found low-utility sequence: [8, 9, 38, 33]
+
+Found low-utility sequence: [8, 9, 38, 4]
+
+Found low-utility sequence: [8, 9, 38]
+
+Found low-utility sequence: [8, 9, 26, 33, 4]
+
+Found low-utility sequence: [8, 9, 26, 33]
+
+Found low-utility sequence: [8, 9, 26, 22]
+
+Found low-utility sequence: [8, 9, 26, 4]
+
+Found low-utility sequence: [8, 9, 26]
+
+Found low-utility sequence: [8, 9, 33, 4]
+
+Found low-utility sequence: [8, 9, 33]
+
+Found low-utility sequence: [8, 9, 22, 4]
+
+Found low-utility sequence: [8, 9, 22]
+
+Found low-utility sequence: [8, 9, 4]
+
+Found low-utility sequence: [8, 9]
+
+Found low-utility sequence: [8, 13, 38, 26, 33]
+
+Found low-utility sequence: [8, 13, 38, 26, 4]
+
+Found low-utility sequence: [8, 13, 38, 26]
+
+Found low-utility sequence: [8, 13, 38, 33, 4]
+
+Found low-utility sequence: [8, 13, 38, 33]
+
+Found low-utility sequence: [8, 13, 38, 22]
+
+Found low-utility sequence: [8, 13, 38, 4]
+
+Found low-utility sequence: [8, 13, 38]
+
+Found low-utility sequence: [8, 13, 26, 33, 4]
+
+Found low-utility sequence: [8, 13, 26, 33]
+
+Found low-utility sequence: [8, 13, 26, 22, 4]
+
+Found low-utility sequence: [8, 13, 26, 22]
+
+Found low-utility sequence: [8, 13, 26, 4]
+
+Found low-utility sequence: [8, 13, 26]
+
+Found low-utility sequence: [8, 13, 33, 22]
+
+Found low-utility sequence: [8, 13, 33, 4]
+
+Found low-utility sequence: [8, 13, 33]
+
+Found low-utility sequence: [8, 13, 77]
+
+Found low-utility sequence: [8, 13, 22, 4]
+
+Found low-utility sequence: [8, 13, 22]
+
+Found low-utility sequence: [8, 13, 4]
+
+Found low-utility sequence: [8, 13]
+
+Found low-utility sequence: [8, 38, 26, 33, 22]
+
+Found low-utility sequence: [8, 38, 26, 33, 4]
+
+Found low-utility sequence: [8, 38, 26, 33]
+
+Found low-utility sequence: [8, 38, 26, 77]
+
+Found low-utility sequence: [8, 38, 26, 22, 4]
+
+Found low-utility sequence: [8, 38, 26, 22]
+
+Found low-utility sequence: [8, 38, 26, 4]
+
+Found low-utility sequence: [8, 38, 26]
+
+Found low-utility sequence: [8, 38, 33, 22, 4]
+
+Found low-utility sequence: [8, 38, 33, 22]
+
+Found low-utility sequence: [8, 38, 33, 4]
+
+Found low-utility sequence: [8, 38, 33]
+
+Found low-utility sequence: [8, 38, 77]
+
+Found low-utility sequence: [8, 38, 22, 4]
+
+Found low-utility sequence: [8, 38, 22]
+
+Found low-utility sequence: [8, 38, 4]
+
+Found low-utility sequence: [8, 38]
+
+Found low-utility sequence: [8, 14, 26]
+
+Found low-utility sequence: [8, 14, 4]
+
+Found low-utility sequence: [8, 14]
+
+Found low-utility sequence: [8, 29, 26]
+
+Found low-utility sequence: [8, 29]
+
+Found low-utility sequence: [8, 26, 33, 77]
+
+Found low-utility sequence: [8, 26, 33, 22, 4]
+
+Found low-utility sequence: [8, 26, 33, 22]
+
+Found low-utility sequence: [8, 26, 33, 4]
+
+Found low-utility sequence: [8, 26, 33]
+
+Found low-utility sequence: [8, 26, 77, 4]
+
+Found low-utility sequence: [8, 26, 77]
+
+Found low-utility sequence: [8, 26, 22, 4]
+
+Found low-utility sequence: [8, 26, 22]
+
+Found low-utility sequence: [8, 26, 4]
+
+Found low-utility sequence: [8, 26, 27]
+
+Found low-utility sequence: [8, 26]
+
+Found low-utility sequence: [8, 33, 77]
+
+Found low-utility sequence: [8, 33, 22, 4]
+
+Found low-utility sequence: [8, 33, 22]
+
+Found low-utility sequence: [8, 33, 4]
+
+Found low-utility sequence: [8, 33]
+
+Found low-utility sequence: [8, 77, 4]
+
+Found low-utility sequence: [8, 77]
+
+Found low-utility sequence: [8, 22, 4]
+
+Found low-utility sequence: [8, 22]
+
+Found low-utility sequence: [8, 4, 27]
+
+Found low-utility sequence: [8, 4]
+
+Found low-utility sequence: [8, 27]
+
+Found low-utility sequence: [8]
+
+Found low-utility sequence: [9, 13, 38, 26]
+
+Found low-utility sequence: [9, 13, 38, 33]
+
+Found low-utility sequence: [9, 13, 38, 4]
+
+Found low-utility sequence: [9, 13, 38]
+
+Found low-utility sequence: [9, 13, 26, 33]
+
+Found low-utility sequence: [9, 13, 26, 4]
+
+Found low-utility sequence: [9, 13, 26]
+
+Found low-utility sequence: [9, 13, 33, 4]
+
+Found low-utility sequence: [9, 13, 33]
+
+Found low-utility sequence: [9, 13, 22]
+
+Found low-utility sequence: [9, 13, 4]
+
+Found low-utility sequence: [9, 13]
+
+Found low-utility sequence: [9, 38, 26, 33, 4]
+
+Found low-utility sequence: [9, 38, 26, 33]
+
+Found low-utility sequence: [9, 38, 26, 22]
+
+Found low-utility sequence: [9, 38, 26, 4]
+
+Found low-utility sequence: [9, 38, 26]
+
+Found low-utility sequence: [9, 38, 33, 4]
+
+Found low-utility sequence: [9, 38, 33]
+
+Found low-utility sequence: [9, 38, 22, 4]
+
+Found low-utility sequence: [9, 38, 22]
+
+Found low-utility sequence: [9, 38, 4]
+
+Found low-utility sequence: [9, 38]
+
+Found low-utility sequence: [9, 26, 33, 22]
+
+Found low-utility sequence: [9, 26, 33, 4]
+
+Found low-utility sequence: [9, 26, 33]
+
+Found low-utility sequence: [9, 26, 77]
+
+Found low-utility sequence: [9, 26, 22, 4]
+
+Found low-utility sequence: [9, 26, 22]
+
+Found low-utility sequence: [9, 26, 4]
+
+Found low-utility sequence: [9, 26]
+
+Found low-utility sequence: [9, 33, 22, 4]
+
+Found low-utility sequence: [9, 33, 22]
+
+Found low-utility sequence: [9, 33, 4]
+
+Found low-utility sequence: [9, 33]
+
+Found low-utility sequence: [9, 77]
+
+Found low-utility sequence: [9, 22, 4]
+
+Found low-utility sequence: [9, 22]
+
+Found low-utility sequence: [9, 4]
+
+Found low-utility sequence: [9]
+
+Found low-utility sequence: [13, 38, 26, 33, 4]
+
+Found low-utility sequence: [13, 38, 26, 33]
+
+Found low-utility sequence: [13, 38, 26, 22, 4]
+
+Found low-utility sequence: [13, 38, 26, 22]
+
+Found low-utility sequence: [13, 38, 26, 4]
+
+Found low-utility sequence: [13, 38, 26]
+
+Found low-utility sequence: [13, 38, 33, 22]
+
+Found low-utility sequence: [13, 38, 33, 4]
+
+Found low-utility sequence: [13, 38, 33]
+
+Found low-utility sequence: [13, 38, 77]
+
+Found low-utility sequence: [13, 38, 22, 4]
+
+Found low-utility sequence: [13, 38, 22]
+
+Found low-utility sequence: [13, 38, 4]
+
+Found low-utility sequence: [13, 38]
+
+Found low-utility sequence: [13, 14]
+
+Found low-utility sequence: [13, 29]
+
+Found low-utility sequence: [13, 26, 33, 22, 4]
+
+Found low-utility sequence: [13, 26, 33, 22]
+
+Found low-utility sequence: [13, 26, 33, 4]
+
+Found low-utility sequence: [13, 26, 33]
+
+Found low-utility sequence: [13, 26, 77]
+
+Found low-utility sequence: [13, 26, 22, 4]
+
+Found low-utility sequence: [13, 26, 22]
+
+Found low-utility sequence: [13, 26, 4]
+
+Found low-utility sequence: [13, 26]
+
+Found low-utility sequence: [13, 33, 77]
+
+Found low-utility sequence: [13, 33, 22, 4]
+
+Found low-utility sequence: [13, 33, 22]
+
+Found low-utility sequence: [13, 33, 4]
+
+Found low-utility sequence: [13, 33]
+
+Found low-utility sequence: [13, 77, 4]
+
+Found low-utility sequence: [13, 77]
+
+Found low-utility sequence: [13, 22, 4]
+
+Found low-utility sequence: [13, 22]
+
+Found low-utility sequence: [13, 4]
+
+Found low-utility sequence: [13, 27]
+
+Found low-utility sequence: [13]
+
+Found low-utility sequence: [38, 14, 26]
+
+Found low-utility sequence: [38, 14, 4]
+
+Found low-utility sequence: [38, 14]
+
+Found low-utility sequence: [38, 29, 26]
+
+Found low-utility sequence: [38, 29]
+
+Found low-utility sequence: [38, 26, 33, 77]
+
+Found low-utility sequence: [38, 26, 33, 22, 4]
+
+Found low-utility sequence: [38, 26, 33, 22]
+
+Found low-utility sequence: [38, 26, 33, 4]
+
+Found low-utility sequence: [38, 26, 33]
+
+Found low-utility sequence: [38, 26, 77, 4]
+
+Found low-utility sequence: [38, 26, 77]
+
+Found low-utility sequence: [38, 26, 22, 4]
+
+Found low-utility sequence: [38, 26, 22]
+
+Found low-utility sequence: [38, 26, 4]
+
+Found low-utility sequence: [38, 26, 27]
+
+Found low-utility sequence: [38, 26]
+
+Found low-utility sequence: [38, 33, 77]
+
+Found low-utility sequence: [38, 33, 22, 4]
+
+Found low-utility sequence: [38, 33, 22]
+
+Found low-utility sequence: [38, 33, 4]
+
+Found low-utility sequence: [38, 33]
+
+Found low-utility sequence: [38, 77, 4]
+
+Found low-utility sequence: [38, 77]
+
+Found low-utility sequence: [38, 22, 4]
+
+Found low-utility sequence: [38, 22]
+
+Found low-utility sequence: [38, 4, 27]
+
+Found low-utility sequence: [38, 4]
+
+Found low-utility sequence: [38, 27]
+
+Found low-utility sequence: [38]
+
+Found low-utility sequence: [14, 26, 33]
+
+Found low-utility sequence: [14, 26, 4]
+
+Found low-utility sequence: [14, 26]
+
+Found low-utility sequence: [14, 33, 4]
+
+Found low-utility sequence: [14, 33]
+
+Found low-utility sequence: [14, 22]
+
+Found low-utility sequence: [14, 4]
+
+Found low-utility sequence: [14]
+
+Found low-utility sequence: [29, 26, 33]
+
+Found low-utility sequence: [29, 26, 4]
+
+Found low-utility sequence: [29, 26]
+
+Found low-utility sequence: [29, 33]
+
+Found low-utility sequence: [29, 4]
+
+Found low-utility sequence: [29]
+
+Found low-utility sequence: [26, 33, 77, 4]
+
+Found low-utility sequence: [26, 33, 77]
+
+Found low-utility sequence: [26, 33, 22, 4]
+
+Found low-utility sequence: [26, 33, 22]
+
+Found low-utility sequence: [26, 33, 4]
+
+Found low-utility sequence: [26, 33, 27]
+
+Found low-utility sequence: [26, 33]
+
+Found low-utility sequence: [26, 77, 22]
+
+Found low-utility sequence: [26, 77, 4]
+
+Found low-utility sequence: [26, 77]
+
+Found low-utility sequence: [26, 22, 4]
+
+Found low-utility sequence: [26, 22]
+
+Found low-utility sequence: [26, 4, 27]
+
+Found low-utility sequence: [26, 4]
+
+Found low-utility sequence: [26, 27]
+
+Found low-utility sequence: [26]
+
+Found low-utility sequence: [33, 77, 4]
+
+Found low-utility sequence: [33, 77]
+
+Found low-utility sequence: [33, 22, 4]
+
+Found low-utility sequence: [33, 22]
+
+Found low-utility sequence: [33, 4, 27]
+
+Found low-utility sequence: [33, 4]
+
+Found low-utility sequence: [33, 27]
+
+Found low-utility sequence: [33]
+
+Found low-utility sequence: [77, 22, 4]
+
+Found low-utility sequence: [77, 22]
+
+Found low-utility sequence: [77, 4]
+
+Found low-utility sequence: [77]
+
+Found low-utility sequence: [22, 4]
+
+Found low-utility sequence: [22, 27]
+
+Found low-utility sequence: [22]
+
+Found low-utility sequence: [4, 27]
+
+Found low-utility sequence: [4]
+
+Found low-utility sequence: [27]
+
+Number of low-utility non-contiguous sequences: 411
+Output low-utility sequences:
+Sequence: [15, 8, 9, 13]  Utility: 21
+Sequence: [15, 8, 9, 38, 26]  Utility: 21
+Sequence: [15, 8, 9, 38, 4]  Utility: 22
+Sequence: [15, 8, 9, 38]  Utility: 19
+Sequence: [15, 8, 9, 26, 33]  Utility: 21
+Sequence: [15, 8, 9, 26, 4]  Utility: 20
+Sequence: [15, 8, 9, 26]  Utility: 17
+Sequence: [15, 8, 9, 33, 4]  Utility: 22
+Sequence: [15, 8, 9, 33]  Utility: 19
+Sequence: [15, 8, 9, 22]  Utility: 22
+Sequence: [15, 8, 9, 4]  Utility: 18
+Sequence: [15, 8, 9]  Utility: 15
+Sequence: [15, 8, 13, 38, 26, 4]  Utility: 22
+Sequence: [15, 8, 13, 38, 26]  Utility: 19
+Sequence: [15, 8, 13, 38, 33]  Utility: 21
+Sequence: [15, 8, 13, 38, 4]  Utility: 20
+Sequence: [15, 8, 13, 38]  Utility: 17
+Sequence: [15, 8, 13, 26, 33, 4]  Utility: 22
+Sequence: [15, 8, 13, 26, 33]  Utility: 19
+Sequence: [15, 8, 13, 26, 22]  Utility: 22
+Sequence: [15, 8, 13, 26, 4]  Utility: 18
+Sequence: [15, 8, 13, 26]  Utility: 15
+Sequence: [15, 8, 13, 33, 4]  Utility: 20
+Sequence: [15, 8, 13, 33]  Utility: 17
+Sequence: [15, 8, 13, 22]  Utility: 20
+Sequence: [15, 8, 13, 4]  Utility: 16
+Sequence: [15, 8, 13]  Utility: 13
+Sequence: [15, 8, 38, 26, 33, 4]  Utility: 20
+Sequence: [15, 8, 38, 26, 33]  Utility: 17
+Sequence: [15, 8, 38, 26, 22]  Utility: 20
+Sequence: [15, 8, 38, 26, 4]  Utility: 16
+Sequence: [15, 8, 38, 26]  Utility: 13
+Sequence: [15, 8, 38, 33, 22]  Utility: 22
+Sequence: [15, 8, 38, 33, 4]  Utility: 18
+Sequence: [15, 8, 38, 33]  Utility: 15
+Sequence: [15, 8, 38, 22, 4]  Utility: 21
+Sequence: [15, 8, 38, 22]  Utility: 18
+Sequence: [15, 8, 38, 4]  Utility: 14
+Sequence: [15, 8, 38]  Utility: 11
+Sequence: [15, 8, 14]  Utility: 22
+Sequence: [15, 8, 26, 33, 22]  Utility: 20
+Sequence: [15, 8, 26, 33, 4]  Utility: 16
+Sequence: [15, 8, 26, 33]  Utility: 13
+Sequence: [15, 8, 26, 77]  Utility: 21
+Sequence: [15, 8, 26, 22, 4]  Utility: 19
+Sequence: [15, 8, 26, 22]  Utility: 16
+Sequence: [15, 8, 26, 4]  Utility: 12
+Sequence: [15, 8, 26]  Utility: 9
+Sequence: [15, 8, 33, 22, 4]  Utility: 21
+Sequence: [15, 8, 33, 22]  Utility: 18
+Sequence: [15, 8, 33, 4]  Utility: 14
+Sequence: [15, 8, 33]  Utility: 11
+Sequence: [15, 8, 77, 4]  Utility: 22
+Sequence: [15, 8, 77]  Utility: 19
+Sequence: [15, 8, 22, 4]  Utility: 17
+Sequence: [15, 8, 22]  Utility: 14
+Sequence: [15, 8, 4]  Utility: 10
+Sequence: [15, 8, 27]  Utility: 22
+Sequence: [15, 8]  Utility: 7
+Sequence: [15, 9, 13, 38]  Utility: 21
+Sequence: [15, 9, 13, 26, 4]  Utility: 22
+Sequence: [15, 9, 13, 26]  Utility: 19
+Sequence: [15, 9, 13, 33]  Utility: 21
+Sequence: [15, 9, 13, 4]  Utility: 20
+Sequence: [15, 9, 13]  Utility: 17
+Sequence: [15, 9, 38, 26, 33]  Utility: 21
+Sequence: [15, 9, 38, 26, 4]  Utility: 20
+Sequence: [15, 9, 38, 26]  Utility: 17
+Sequence: [15, 9, 38, 33, 4]  Utility: 22
+Sequence: [15, 9, 38, 33]  Utility: 19
+Sequence: [15, 9, 38, 22]  Utility: 22
+Sequence: [15, 9, 38, 4]  Utility: 18
+Sequence: [15, 9, 38]  Utility: 15
+Sequence: [15, 9, 26, 33, 4]  Utility: 20
+Sequence: [15, 9, 26, 33]  Utility: 17
+Sequence: [15, 9, 26, 22]  Utility: 20
+Sequence: [15, 9, 26, 4]  Utility: 16
+Sequence: [15, 9, 26]  Utility: 13
+Sequence: [15, 9, 33, 22]  Utility: 22
+Sequence: [15, 9, 33, 4]  Utility: 18
+Sequence: [15, 9, 33]  Utility: 15
+Sequence: [15, 9, 22, 4]  Utility: 21
+Sequence: [15, 9, 22]  Utility: 18
+Sequence: [15, 9, 4]  Utility: 14
+Sequence: [15, 9]  Utility: 11
+Sequence: [15, 13, 38, 26, 33, 4]  Utility: 22
+Sequence: [15, 13, 38, 26, 33]  Utility: 19
+Sequence: [15, 13, 38, 26, 22]  Utility: 22
+Sequence: [15, 13, 38, 26, 4]  Utility: 18
+Sequence: [15, 13, 38, 26]  Utility: 15
+Sequence: [15, 13, 38, 33, 4]  Utility: 20
+Sequence: [15, 13, 38, 33]  Utility: 17
+Sequence: [15, 13, 38, 22]  Utility: 20
+Sequence: [15, 13, 38, 4]  Utility: 16
+Sequence: [15, 13, 38]  Utility: 13
+Sequence: [15, 13, 26, 33, 22]  Utility: 22
+Sequence: [15, 13, 26, 33, 4]  Utility: 18
+Sequence: [15, 13, 26, 33]  Utility: 15
+Sequence: [15, 13, 26, 22, 4]  Utility: 21
+Sequence: [15, 13, 26, 22]  Utility: 18
+Sequence: [15, 13, 26, 4]  Utility: 14
+Sequence: [15, 13, 26]  Utility: 11
+Sequence: [15, 13, 33, 22]  Utility: 20
+Sequence: [15, 13, 33, 4]  Utility: 16
+Sequence: [15, 13, 33]  Utility: 13
+Sequence: [15, 13, 77]  Utility: 21
+Sequence: [15, 13, 22, 4]  Utility: 19
+Sequence: [15, 13, 22]  Utility: 16
+Sequence: [15, 13, 4]  Utility: 12
+Sequence: [15, 13]  Utility: 9
+Sequence: [15, 38, 14]  Utility: 22
+Sequence: [15, 38, 26, 33, 22]  Utility: 20
+Sequence: [15, 38, 26, 33, 4]  Utility: 16
+Sequence: [15, 38, 26, 33]  Utility: 13
+Sequence: [15, 38, 26, 77]  Utility: 21
+Sequence: [15, 38, 26, 22, 4]  Utility: 19
+Sequence: [15, 38, 26, 22]  Utility: 16
+Sequence: [15, 38, 26, 4]  Utility: 12
+Sequence: [15, 38, 26]  Utility: 9
+Sequence: [15, 38, 33, 22, 4]  Utility: 21
+Sequence: [15, 38, 33, 22]  Utility: 18
+Sequence: [15, 38, 33, 4]  Utility: 14
+Sequence: [15, 38, 33]  Utility: 11
+Sequence: [15, 38, 77, 4]  Utility: 22
+Sequence: [15, 38, 77]  Utility: 19
+Sequence: [15, 38, 22, 4]  Utility: 17
+Sequence: [15, 38, 22]  Utility: 14
+Sequence: [15, 38, 4]  Utility: 10
+Sequence: [15, 38, 27]  Utility: 22
+Sequence: [15, 38]  Utility: 7
+Sequence: [15, 14, 26]  Utility: 20
+Sequence: [15, 14, 33]  Utility: 22
+Sequence: [15, 14, 4]  Utility: 21
+Sequence: [15, 14]  Utility: 18
+Sequence: [15, 29, 26]  Utility: 21
+Sequence: [15, 29, 4]  Utility: 22
+Sequence: [15, 29]  Utility: 19
+Sequence: [15, 26, 33, 77]  Utility: 21
+Sequence: [15, 26, 33, 22, 4]  Utility: 19
+Sequence: [15, 26, 33, 22]  Utility: 16
+Sequence: [15, 26, 33, 4]  Utility: 12
+Sequence: [15, 26, 33]  Utility: 9
+Sequence: [15, 26, 77, 4]  Utility: 20
+Sequence: [15, 26, 77]  Utility: 17
+Sequence: [15, 26, 22, 4]  Utility: 15
+Sequence: [15, 26, 22]  Utility: 12
+Sequence: [15, 26, 4]  Utility: 8
+Sequence: [15, 26, 27]  Utility: 20
+Sequence: [15, 26]  Utility: 5
+Sequence: [15, 33, 77, 4]  Utility: 22
+Sequence: [15, 33, 77]  Utility: 19
+Sequence: [15, 33, 22, 4]  Utility: 17
+Sequence: [15, 33, 22]  Utility: 14
+Sequence: [15, 33, 4]  Utility: 10
+Sequence: [15, 33, 27]  Utility: 22
+Sequence: [15, 33]  Utility: 7
+Sequence: [15, 77, 22]  Utility: 22
+Sequence: [15, 77, 4]  Utility: 18
+Sequence: [15, 77]  Utility: 15
+Sequence: [15, 22, 4]  Utility: 13
+Sequence: [15, 22]  Utility: 10
+Sequence: [15, 4, 27]  Utility: 21
+Sequence: [15, 4]  Utility: 6
+Sequence: [15, 27]  Utility: 18
+Sequence: [15]  Utility: 3
+Sequence: [8, 9, 13, 38]  Utility: 22
+Sequence: [8, 9, 13, 26]  Utility: 20
+Sequence: [8, 9, 13, 33]  Utility: 22
+Sequence: [8, 9, 13, 4]  Utility: 21
+Sequence: [8, 9, 13]  Utility: 18
+Sequence: [8, 9, 38, 26, 33]  Utility: 22
+Sequence: [8, 9, 38, 26, 4]  Utility: 21
+Sequence: [8, 9, 38, 26]  Utility: 18
+Sequence: [8, 9, 38, 33]  Utility: 20
+Sequence: [8, 9, 38, 4]  Utility: 19
+Sequence: [8, 9, 38]  Utility: 16
+Sequence: [8, 9, 26, 33, 4]  Utility: 21
+Sequence: [8, 9, 26, 33]  Utility: 18
+Sequence: [8, 9, 26, 22]  Utility: 21
+Sequence: [8, 9, 26, 4]  Utility: 17
+Sequence: [8, 9, 26]  Utility: 14
+Sequence: [8, 9, 33, 4]  Utility: 19
+Sequence: [8, 9, 33]  Utility: 16
+Sequence: [8, 9, 22, 4]  Utility: 22
+Sequence: [8, 9, 22]  Utility: 19
+Sequence: [8, 9, 4]  Utility: 15
+Sequence: [8, 9]  Utility: 12
+Sequence: [8, 13, 38, 26, 33]  Utility: 20
+Sequence: [8, 13, 38, 26, 4]  Utility: 19
+Sequence: [8, 13, 38, 26]  Utility: 16
+Sequence: [8, 13, 38, 33, 4]  Utility: 21
+Sequence: [8, 13, 38, 33]  Utility: 18
+Sequence: [8, 13, 38, 22]  Utility: 21
+Sequence: [8, 13, 38, 4]  Utility: 17
+Sequence: [8, 13, 38]  Utility: 14
+Sequence: [8, 13, 26, 33, 4]  Utility: 19
+Sequence: [8, 13, 26, 33]  Utility: 16
+Sequence: [8, 13, 26, 22, 4]  Utility: 22
+Sequence: [8, 13, 26, 22]  Utility: 19
+Sequence: [8, 13, 26, 4]  Utility: 15
+Sequence: [8, 13, 26]  Utility: 12
+Sequence: [8, 13, 33, 22]  Utility: 21
+Sequence: [8, 13, 33, 4]  Utility: 17
+Sequence: [8, 13, 33]  Utility: 14
+Sequence: [8, 13, 77]  Utility: 22
+Sequence: [8, 13, 22, 4]  Utility: 20
+Sequence: [8, 13, 22]  Utility: 17
+Sequence: [8, 13, 4]  Utility: 13
+Sequence: [8, 13]  Utility: 10
+Sequence: [8, 38, 26, 33, 22]  Utility: 21
+Sequence: [8, 38, 26, 33, 4]  Utility: 17
+Sequence: [8, 38, 26, 33]  Utility: 14
+Sequence: [8, 38, 26, 77]  Utility: 22
+Sequence: [8, 38, 26, 22, 4]  Utility: 20
+Sequence: [8, 38, 26, 22]  Utility: 17
+Sequence: [8, 38, 26, 4]  Utility: 13
+Sequence: [8, 38, 26]  Utility: 10
+Sequence: [8, 38, 33, 22, 4]  Utility: 22
+Sequence: [8, 38, 33, 22]  Utility: 19
+Sequence: [8, 38, 33, 4]  Utility: 15
+Sequence: [8, 38, 33]  Utility: 12
+Sequence: [8, 38, 77]  Utility: 20
+Sequence: [8, 38, 22, 4]  Utility: 18
+Sequence: [8, 38, 22]  Utility: 15
+Sequence: [8, 38, 4]  Utility: 11
+Sequence: [8, 38]  Utility: 8
+Sequence: [8, 14, 26]  Utility: 21
+Sequence: [8, 14, 4]  Utility: 22
+Sequence: [8, 14]  Utility: 19
+Sequence: [8, 29, 26]  Utility: 22
+Sequence: [8, 29]  Utility: 20
+Sequence: [8, 26, 33, 77]  Utility: 22
+Sequence: [8, 26, 33, 22, 4]  Utility: 20
+Sequence: [8, 26, 33, 22]  Utility: 17
+Sequence: [8, 26, 33, 4]  Utility: 13
+Sequence: [8, 26, 33]  Utility: 10
+Sequence: [8, 26, 77, 4]  Utility: 21
+Sequence: [8, 26, 77]  Utility: 18
+Sequence: [8, 26, 22, 4]  Utility: 16
+Sequence: [8, 26, 22]  Utility: 13
+Sequence: [8, 26, 4]  Utility: 9
+Sequence: [8, 26, 27]  Utility: 21
+Sequence: [8, 26]  Utility: 6
+Sequence: [8, 33, 77]  Utility: 20
+Sequence: [8, 33, 22, 4]  Utility: 18
+Sequence: [8, 33, 22]  Utility: 15
+Sequence: [8, 33, 4]  Utility: 11
+Sequence: [8, 33]  Utility: 8
+Sequence: [8, 77, 4]  Utility: 19
+Sequence: [8, 77]  Utility: 16
+Sequence: [8, 22, 4]  Utility: 14
+Sequence: [8, 22]  Utility: 11
+Sequence: [8, 4, 27]  Utility: 22
+Sequence: [8, 4]  Utility: 7
+Sequence: [8, 27]  Utility: 19
+Sequence: [8]  Utility: 4
+Sequence: [9, 13, 38, 26]  Utility: 20
+Sequence: [9, 13, 38, 33]  Utility: 22
+Sequence: [9, 13, 38, 4]  Utility: 21
+Sequence: [9, 13, 38]  Utility: 18
+Sequence: [9, 13, 26, 33]  Utility: 20
+Sequence: [9, 13, 26, 4]  Utility: 19
+Sequence: [9, 13, 26]  Utility: 16
+Sequence: [9, 13, 33, 4]  Utility: 21
+Sequence: [9, 13, 33]  Utility: 18
+Sequence: [9, 13, 22]  Utility: 21
+Sequence: [9, 13, 4]  Utility: 17
+Sequence: [9, 13]  Utility: 14
+Sequence: [9, 38, 26, 33, 4]  Utility: 21
+Sequence: [9, 38, 26, 33]  Utility: 18
+Sequence: [9, 38, 26, 22]  Utility: 21
+Sequence: [9, 38, 26, 4]  Utility: 17
+Sequence: [9, 38, 26]  Utility: 14
+Sequence: [9, 38, 33, 4]  Utility: 19
+Sequence: [9, 38, 33]  Utility: 16
+Sequence: [9, 38, 22, 4]  Utility: 22
+Sequence: [9, 38, 22]  Utility: 19
+Sequence: [9, 38, 4]  Utility: 15
+Sequence: [9, 38]  Utility: 12
+Sequence: [9, 26, 33, 22]  Utility: 21
+Sequence: [9, 26, 33, 4]  Utility: 17
+Sequence: [9, 26, 33]  Utility: 14
+Sequence: [9, 26, 77]  Utility: 22
+Sequence: [9, 26, 22, 4]  Utility: 20
+Sequence: [9, 26, 22]  Utility: 17
+Sequence: [9, 26, 4]  Utility: 13
+Sequence: [9, 26]  Utility: 10
+Sequence: [9, 33, 22, 4]  Utility: 22
+Sequence: [9, 33, 22]  Utility: 19
+Sequence: [9, 33, 4]  Utility: 15
+Sequence: [9, 33]  Utility: 12
+Sequence: [9, 77]  Utility: 20
+Sequence: [9, 22, 4]  Utility: 18
+Sequence: [9, 22]  Utility: 15
+Sequence: [9, 4]  Utility: 11
+Sequence: [9]  Utility: 8
+Sequence: [13, 38, 26, 33, 4]  Utility: 19
+Sequence: [13, 38, 26, 33]  Utility: 16
+Sequence: [13, 38, 26, 22, 4]  Utility: 22
+Sequence: [13, 38, 26, 22]  Utility: 19
+Sequence: [13, 38, 26, 4]  Utility: 15
+Sequence: [13, 38, 26]  Utility: 12
+Sequence: [13, 38, 33, 22]  Utility: 21
+Sequence: [13, 38, 33, 4]  Utility: 17
+Sequence: [13, 38, 33]  Utility: 14
+Sequence: [13, 38, 77]  Utility: 22
+Sequence: [13, 38, 22, 4]  Utility: 20
+Sequence: [13, 38, 22]  Utility: 17
+Sequence: [13, 38, 4]  Utility: 13
+Sequence: [13, 38]  Utility: 10
+Sequence: [13, 14]  Utility: 21
+Sequence: [13, 29]  Utility: 22
+Sequence: [13, 26, 33, 22, 4]  Utility: 22
+Sequence: [13, 26, 33, 22]  Utility: 19
+Sequence: [13, 26, 33, 4]  Utility: 15
+Sequence: [13, 26, 33]  Utility: 12
+Sequence: [13, 26, 77]  Utility: 20
+Sequence: [13, 26, 22, 4]  Utility: 18
+Sequence: [13, 26, 22]  Utility: 15
+Sequence: [13, 26, 4]  Utility: 11
+Sequence: [13, 26]  Utility: 8
+Sequence: [13, 33, 77]  Utility: 22
+Sequence: [13, 33, 22, 4]  Utility: 20
+Sequence: [13, 33, 22]  Utility: 17
+Sequence: [13, 33, 4]  Utility: 13
+Sequence: [13, 33]  Utility: 10
+Sequence: [13, 77, 4]  Utility: 21
+Sequence: [13, 77]  Utility: 18
+Sequence: [13, 22, 4]  Utility: 16
+Sequence: [13, 22]  Utility: 13
+Sequence: [13, 4]  Utility: 9
+Sequence: [13, 27]  Utility: 21
+Sequence: [13]  Utility: 6
+Sequence: [38, 14, 26]  Utility: 21
+Sequence: [38, 14, 4]  Utility: 22
+Sequence: [38, 14]  Utility: 19
+Sequence: [38, 29, 26]  Utility: 22
+Sequence: [38, 29]  Utility: 20
+Sequence: [38, 26, 33, 77]  Utility: 22
+Sequence: [38, 26, 33, 22, 4]  Utility: 20
+Sequence: [38, 26, 33, 22]  Utility: 17
+Sequence: [38, 26, 33, 4]  Utility: 13
+Sequence: [38, 26, 33]  Utility: 10
+Sequence: [38, 26, 77, 4]  Utility: 21
+Sequence: [38, 26, 77]  Utility: 18
+Sequence: [38, 26, 22, 4]  Utility: 16
+Sequence: [38, 26, 22]  Utility: 13
+Sequence: [38, 26, 4]  Utility: 9
+Sequence: [38, 26, 27]  Utility: 21
+Sequence: [38, 26]  Utility: 6
+Sequence: [38, 33, 77]  Utility: 20
+Sequence: [38, 33, 22, 4]  Utility: 18
+Sequence: [38, 33, 22]  Utility: 15
+Sequence: [38, 33, 4]  Utility: 11
+Sequence: [38, 33]  Utility: 8
+Sequence: [38, 77, 4]  Utility: 19
+Sequence: [38, 77]  Utility: 16
+Sequence: [38, 22, 4]  Utility: 14
+Sequence: [38, 22]  Utility: 11
+Sequence: [38, 4, 27]  Utility: 22
+Sequence: [38, 4]  Utility: 7
+Sequence: [38, 27]  Utility: 19
+Sequence: [38]  Utility: 4
+Sequence: [14, 26, 33]  Utility: 21
+Sequence: [14, 26, 4]  Utility: 20
+Sequence: [14, 26]  Utility: 17
+Sequence: [14, 33, 4]  Utility: 22
+Sequence: [14, 33]  Utility: 19
+Sequence: [14, 22]  Utility: 22
+Sequence: [14, 4]  Utility: 18
+Sequence: [14]  Utility: 15
+Sequence: [29, 26, 33]  Utility: 22
+Sequence: [29, 26, 4]  Utility: 21
+Sequence: [29, 26]  Utility: 18
+Sequence: [29, 33]  Utility: 20
+Sequence: [29, 4]  Utility: 19
+Sequence: [29]  Utility: 16
+Sequence: [26, 33, 77, 4]  Utility: 21
+Sequence: [26, 33, 77]  Utility: 18
+Sequence: [26, 33, 22, 4]  Utility: 16
+Sequence: [26, 33, 22]  Utility: 13
+Sequence: [26, 33, 4]  Utility: 9
+Sequence: [26, 33, 27]  Utility: 21
+Sequence: [26, 33]  Utility: 6
+Sequence: [26, 77, 22]  Utility: 21
+Sequence: [26, 77, 4]  Utility: 17
+Sequence: [26, 77]  Utility: 14
+Sequence: [26, 22, 4]  Utility: 12
+Sequence: [26, 22]  Utility: 9
+Sequence: [26, 4, 27]  Utility: 20
+Sequence: [26, 4]  Utility: 5
+Sequence: [26, 27]  Utility: 17
+Sequence: [26]  Utility: 2
+Sequence: [33, 77, 4]  Utility: 19
+Sequence: [33, 77]  Utility: 16
+Sequence: [33, 22, 4]  Utility: 14
+Sequence: [33, 22]  Utility: 11
+Sequence: [33, 4, 27]  Utility: 22
+Sequence: [33, 4]  Utility: 7
+Sequence: [33, 27]  Utility: 19
+Sequence: [33]  Utility: 4
+Sequence: [77, 22, 4]  Utility: 22
+Sequence: [77, 22]  Utility: 19
+Sequence: [77, 4]  Utility: 15
+Sequence: [77]  Utility: 12
+Sequence: [22, 4]  Utility: 10
+Sequence: [22, 27]  Utility: 22
+Sequence: [22]  Utility: 7
+Sequence: [4, 27]  Utility: 18
+Sequence: [4]  Utility: 3
+Sequence: [27]  Utility: 15
+Total number of low-utility sequences: 411
+
+Data loading time: 0.011 s
+Bitmap generation time: 0.0 s
+Longest sequence extraction time: 0.0 s
+Preprocessing time: 0.011 s
+Total runtime: 2.077 s
+Maximum memory usage: 26.09405517578125 MB
+Total memory: 260.0 MB
+Free memory: 233.90594482421875 MB
+Number of candidates (improved): 1048576
+Number of patterns: 411
+
+Final memory usage: 26 MB
+Total memory consumed: 20 MB
+Maximum memory usage: 26.09405517578125 MB
+Output max utility: 22maximum utility:22
