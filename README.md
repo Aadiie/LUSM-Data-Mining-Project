@@ -26,4 +26,4 @@ Efficient Mining of Low-Utility Sequential Patterns
 
 ## Author
 Name: Aditya Dhamala  
-Registration Number: XXXXX
+
